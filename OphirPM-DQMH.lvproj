@@ -26,6 +26,7 @@
 				<Item Name="Ophir InstrInfo.vi" Type="VI" URL="/&lt;instrlib&gt;/OphInstr/OphInstr.llb/Ophir InstrInfo.vi"/>
 				<Item Name="Ophir Over.vi" Type="VI" URL="/&lt;instrlib&gt;/OphInstr/OphInstr.llb/Ophir Over.vi"/>
 				<Item Name="Ophir RangeList.vi" Type="VI" URL="/&lt;instrlib&gt;/OphInstr/OphInstr.llb/Ophir RangeList.vi"/>
+				<Item Name="Ophir RangeModif.vi" Type="VI" URL="/&lt;instrlib&gt;/OphInstr/OphInstr.llb/Ophir RangeModif.vi"/>
 				<Item Name="Ophir SendPower.vi" Type="VI" URL="/&lt;instrlib&gt;/OphInstr/OphInstr.llb/Ophir SendPower.vi"/>
 				<Item Name="Ophir SendReceive.vi" Type="VI" URL="/&lt;instrlib&gt;/OphInstr/OphInstr.llb/Ophir SendReceive.vi"/>
 				<Item Name="Ophir StringToValue.vi" Type="VI" URL="/&lt;instrlib&gt;/OphInstr/OphInstr.llb/Ophir StringToValue.vi"/>
